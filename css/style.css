@@ -43,6 +43,13 @@ a {
   background-color: rgba(52, 200, 138, 50%);
 }
 
+#main .main_img img:first-child{
+  padding-right: 10px;
+}
+#main .main_img img:last-child{
+  padding-left: 10px;
+}
+
 #main .main_box {
   position: absolute;
   color: #fff;
